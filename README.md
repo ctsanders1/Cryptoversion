@@ -3,8 +3,8 @@ Converts BTC to USD and then to crypto-coin of choice using Python. Really simpl
 
 # Instructions
 
- Takes JSON price data off of Coinbase to get dollar value of bitcoin and fetches LTC-to-BTC price from BTC-E.
+Takes JSON price data off of Coinbase to get dollar value of bitcoin and fetches LTC-to-BTC price from BTC-E. You can of course change both of those API requests to exchanged of choice.
  
 # Why this?
  
-I found a lot of the exchanges used wire transfers or services I didn't want to trust to exchange altcoins to US dollars and pay extra fees as well. Coinbase makes things pretty simple.
+I found a lot of the exchanges used wire transfers or services I didn't want to trust to exchange altcoins to US dollars or pay extra fees. Coinbase makes things pretty simple.
